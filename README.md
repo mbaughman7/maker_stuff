@@ -1,2 +1,4 @@
 # maker_stuff
-repo for things I make as gifts or home projects
+
+
+This repo is for projects like the lightning hat, naynay box, and firefly jar.
